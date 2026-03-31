@@ -1,4 +1,4 @@
-# Irtaza-Nadeem
+
 <h1 align="center">Hi 👋, I'm Irtaza</h1>
 <h3 align="center">Full Stack .NET Developer | Angular | Azure</h3>
 
@@ -32,4 +32,4 @@
 ---
 
 ### 🤝 Connect with me
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/irtaza-nadeem-12a4b4225/))
+[LinkedIn]([https://linkedin.com/in/irtaza-nadeem-12a4b4225/])
