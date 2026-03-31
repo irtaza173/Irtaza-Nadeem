@@ -32,4 +32,4 @@
 ---
 
 ### 🤝 Connect with me
-[LinkedIn]([https://linkedin.com/in/irtaza-nadeem-12a4b4225/])
+[LinkedIn](https://linkedin.com/in/irtaza-nadeem-12a4b4225/)
